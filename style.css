@@ -64,10 +64,8 @@ body {
     margin: 0;
 }
 
-/* Footer */
-
-.footer{
-    background-color: var(--blue);
+ footer{
+    background-color: blue;
     color: white;
     font-size: large;
     height: 420px;
@@ -91,6 +89,7 @@ body {
 .footer .footer-information .logo{
     width: 46%;
 }
+
 
 .footer .footer-information .logo .title{
     margin: 0;
