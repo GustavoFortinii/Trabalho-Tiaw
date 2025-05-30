@@ -1,6 +1,5 @@
 body {
   font-family: Arial, sans-serif;
-  background-image: linear-gradient(yellow white);
   margin: 0;
   padding: 20px;
 }
@@ -94,7 +93,11 @@ body {
 .footer .footer-information .logo .title{
     margin: 0;
 }
-
+.title {
+    position: relative;
+    right: 6.5rem;
+    color: #fff;
+}
 .footer .footer-information .project-information {
     width: 40%;
     height:24%;
